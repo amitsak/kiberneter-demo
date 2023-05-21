@@ -1,2 +1,2 @@
-# kiberneter-demo
+# kubernetes-demo
 kubenetes demo project
